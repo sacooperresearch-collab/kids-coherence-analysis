@@ -7,6 +7,8 @@ This folder contains all files required to reproduce Figure 2 from the paper:
 Figure 2 shows the standard two-point correlation function  
 \( C(\theta) \) computed from preprocessed KiDS ellipticity data.
 
+The CSV provided here is the exact precomputed correlation output used in the paper; no access to the raw KiDS catalog is required to reproduce the figure.
+
 ## Contents
 
 - **kids_coherence.csv**  
@@ -26,6 +28,3 @@ Figure 2 shows the standard two-point correlation function
 - Python 3  
 - `pandas`  
 - `matplotlib`
-
-
-
